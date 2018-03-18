@@ -2,6 +2,8 @@
 
 Little script for massive changes.
 
+* show_accounts_dumpster
+
 ```
 #!/bin/bash
 
