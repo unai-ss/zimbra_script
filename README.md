@@ -38,5 +38,7 @@ done
 
 In this case, we could make a massive delete of emails from a address mail.
 
+[Zimbra: Deleting message from account](https://wiki.zimbra.com/wiki/Deleting_messages_from_account_using_the_CLI)
+
 
 
