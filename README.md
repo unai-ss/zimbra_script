@@ -13,3 +13,6 @@ done
 ```
 
 In this case, we show the dumpster of each zimbra's mailbox
+
+[Zimbra: Operate with Dumpster](https://wiki.zimbra.com/wiki/Enable_and_operate_Zimbra_Dumpster)
+
