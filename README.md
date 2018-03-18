@@ -2,7 +2,7 @@
 
 Little script for massive changes.
 
-* show_accounts_dumpster
+* show_accounts_dumpster 
 
 ```
 #!/bin/bash
@@ -18,7 +18,7 @@ In this case, we show the dumpster of each zimbra's mailbox
 
 [Zimbra: Operate with Dumpster](https://wiki.zimbra.com/wiki/Enable_and_operate_Zimbra_Dumpster)
 
-* delete_massive_mail
+* delete_massive_mail 
 
 ```
 #!/bin/bash
